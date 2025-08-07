@@ -1,40 +1,32 @@
-# web-spiders
+# 🎓 Educational Insights Dashboard
 
- 🌍 BluePlanetCare.com – Water Conservation Awareness Website
+A clean and modern educational dashboard built using *HTML, **CSS, **JavaScript, and **APIs*.
 
-**BluePlanetCare.com** is an educational website designed to raise awareness about water wastage and promote smart water conservation practices. The project provides clear, engaging content and interactive features to help users understand the importance of saving water and how they can take action.
+## 🎯 Purpose
 
----
+The purpose of this project is to *provide a user-friendly dashboard* for educational platforms where students can:
 
-## 💡 Purpose
+- View available courses  
+- Track their learning progress  
+- Get insights and reminders  
+- Access learning resources easily  
 
-Water is life — yet billions of liters are wasted every day. This project aims to:
-- Educate people about the causes and consequences of water wastage
-- Promote everyday actions that help save water
-- Inspire communities, schools, and individuals to become water-wise
+It is aimed at helping students and educators manage digital learning more effectively.
 
----
+## 🧰 Tech Stack
 
-## 🌟 Features
+- HTML
+- CSS
+- JavaScript
+- API Integration
 
-- ✅ Clean and responsive layout
-- ✅ Educational sections:
-  - Introduction
-  - Causes of water wastage
-  - Effects of water misuse
-  - How to prevent water wastage
-- ✅ Awareness slogans and quotes
-- ✅ Optional interactive quiz (JavaScript-based)
-- ✅ Infographic/poster section
-- ✅ Simple footer and clear navigation
+## ✨ Features
 
----
-
-## 🛠️ Tech Stack
-
-- **HTML5** – Page structure
-- **CSS3** – Styling
-- **JavaScript** – Interactivity (quiz feature)
+- 📊 Dashboard with user insights  
+- 📚 Course list and filters  
+- ✅ Responsive design  
+- 🔄 API integration for data  
+- 🎨 Clean UI (based on Figma design)
 
 
 
